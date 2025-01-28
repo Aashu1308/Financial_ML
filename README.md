@@ -11,6 +11,8 @@ Steps so far:
 1. Augmented Data and up and downsampled as necessary
 2. Cleaned empty and nonsensical columns
 3. Separated into upper_income dataset and lower income dataset
+4. Labelled datasets with good and bad spending habits by monthly spending
+5. Implemented and compared Decision Tree, Random Forest, XgBoost
 
 #### Data
 
