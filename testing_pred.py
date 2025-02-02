@@ -5,12 +5,13 @@ from sklearn.preprocessing import StandardScaler
 
 
 def load_model_and_scaler(
-    model_path='fuzz_dnn_full_model.keras', scaler_path='fuzzy_dnn_scaler.pkl'
+    model_path='static/fuzz_dnn_full_model.keras',
+    scaler_path='static/fuzzy_dnn_scaler.pkl',
 ):
     """
     Load the saved model and scaler from disk.
     """
-    with open(model_path, 'rb') as model_file:
+    with open(model_path, 'rb') as _:
         model = load_model(model_path)
 
     with open(scaler_path, 'rb') as scaler_file:

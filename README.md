@@ -23,3 +23,7 @@ Future steps:
 
 Upper income dataset - https://www.kaggle.com/datasets/ramyapintchy/personal-finance-data
 Lower income dataset - https://www.kaggle.com/datasets/tharunprabu/my-expenses-data
+
+#### Explanation
+
+Read DNN.md for more details
