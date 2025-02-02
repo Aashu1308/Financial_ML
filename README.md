@@ -14,6 +14,7 @@ Steps so far:
 4. Labelled datasets with good and bad spending habits by monthly spending
 5. Implemented and compared Decision Tree, Random Forest, Binary Deep Neural Network, Fuzzy Deep Neural Network
 6. Saved model weights and wrote code to return JSON of predictions
+7. Added rudimentary bill scanner + amount extractor
 
 Future steps:
 
