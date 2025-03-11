@@ -15,10 +15,11 @@ Steps so far:
 5. Implemented and compared Decision Tree, Random Forest, Binary Deep Neural Network, Fuzzy Deep Neural Network
 6. Saved model weights and wrote code to return JSON of predictions
 7. Added rudimentary bill scanner + amount extractor
+8. Added LLM generated summary + suggestion using Mistral 24B Small and Openrouter API
 
 Future steps:
 
-1. Integrate with web app (serve via Flask?)
+1. Publish as huggingface spaces chat bot
 
 #### Data
 
